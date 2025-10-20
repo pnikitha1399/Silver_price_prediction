@@ -20,5 +20,5 @@ The goal is to:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/silver-price-forecast.git
+git clone https://github.com/pnikitha1399/silver-price-forecast.git
 cd silver-price-forecast
